@@ -1,1 +1,1 @@
-worker: python susano.py
+worker: python susana.py
